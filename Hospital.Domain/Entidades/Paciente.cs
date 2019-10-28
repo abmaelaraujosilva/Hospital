@@ -1,7 +1,7 @@
 ﻿using Hospital.Shared.Entidades;
 using System;
 
-namespace Hospital.Domain.Entities
+namespace Hospital.Domain.Entidades
 {
     public class Paciente : Entidade
     {
